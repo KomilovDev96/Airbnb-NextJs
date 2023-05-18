@@ -10,7 +10,7 @@
     <li>react-hook-form</li>
     <li>cloudinary</li>
 </ul>
-
+<img src="./files/photo_2023-05-18_12-20-46.jpg" alt="jpg" />
 ## Устанавливаем зависимости
 npm install && yarn install
 
